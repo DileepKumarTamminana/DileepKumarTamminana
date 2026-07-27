@@ -1,14 +1,22 @@
+<div align="center">
+
 # Hi 👋, I'm Dileep Kumar Tamminana
 
-## 🔐 Cybersecurity Engineer | Vulnerability Management | DevSecOps | Application Security | Cloud Security
+### 🔐 Cybersecurity Engineer | Vulnerability Management | DevSecOps | Application Security | Cloud Security
 
 Building secure applications, automating security across CI/CD pipelines, and helping organizations reduce cyber risk through proactive vulnerability management.
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=DileepKumarTamminana&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-I'm a passionate Cybersecurity Engineer with nearly 3 years of IT experience specializing in Vulnerability Management, DevSecOps, Application Security, Cloud Security, and GitHub Advanced Security (GHAS).
+I'm a passionate Cybersecurity Engineer with nearly **3 years of IT experience** specializing in **Vulnerability Management, DevSecOps, Application Security, Cloud Security, and GitHub Advanced Security (GHAS)**.
 
 I enjoy securing applications throughout the Software Development Life Cycle (SSDLC), integrating security into CI/CD pipelines, identifying vulnerabilities before production, and continuously improving enterprise security posture.
 
