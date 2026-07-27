@@ -1,6 +1,6 @@
-                                                    # Hi 👋, I'm Dileep Kumar
+# Hi 👋, I'm Dileep Kumar Tamminana
 
-              ## 🔐 Cybersecurity Engineer | Vulnerability Management | DevSecOps | Application Security | Cloud Security
+## 🔐 Cybersecurity Engineer | Vulnerability Management | DevSecOps | Application Security | Cloud Security
 
 Building secure applications, automating security across CI/CD pipelines, and helping organizations reduce cyber risk through proactive vulnerability management.
 
@@ -274,15 +274,15 @@ CISSP
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/dileepkumartamminana
 
 🌐 GitHub
 
-https://github.com/YOUR-GITHUB
+https://github.com/DileepKumarTamminana
 
 📧 Email
 
-YOUR_EMAIL@gmail.com
+dileepkumar242001@gmail.com
 
 ---
 
