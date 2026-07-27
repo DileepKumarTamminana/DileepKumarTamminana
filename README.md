@@ -10,6 +10,8 @@ Building secure applications, automating security across CI/CD pipelines, and he
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DileepKumarTamminana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DileepKumarTamminana&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
 </p>
 
 </div>
