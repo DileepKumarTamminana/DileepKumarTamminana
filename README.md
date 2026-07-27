@@ -34,26 +34,30 @@ My interests include Cyber Exposure Management (CEM), Secure SDLC, Cloud Securit
 
 ---
 
-#🛠 Tech Stack
-##🔐 Security
+## 🛠 Tech Stack
 
-GitHub Advanced Security (GHAS) • CodeQL • Dependabot • Secret Scanning • SonarQube • Burp Suite • OWASP Top 10 • Qualys • Nessus • Trivy • SAST • DAST • IAST
+### 🔐 Security
+GitHub Advanced Security (GHAS) • CodeQL • Dependabot • Secret Scanning • Qualys • Nessus • SonarQube • Burp Suite • Trivy • Prisma Cloud • OWASP Top 10 • SAST • DAST • IAST • SCA
+
 ---
-##☁ Cloud & Containers
 
-Azure • AWS • Docker • Kubernetes • Prisma Cloud
+### ☁️ Cloud & Containers
+Microsoft Azure • AWS • Docker • Kubernetes
+
 ---
-##🚀 DevOps
 
-Git • GitHub Actions • Jenkins • YAML • CI/CD
+### 🚀 DevSecOps & CI/CD
+Git • GitHub Actions • Jenkins • CI/CD • YAML • Ansible
+
 ---
-##💻 Programming & Scripting
 
-Python • PowerShell • Bash • SQL • YAML • Ansible
+### 💻 Programming & Automation
+Python • PowerShell • Bash • SQL
+
 ---
-##📊 Monitoring & ITSM
 
-Splunk • ServiceNow • Security Dashboards
+### 📊 Monitoring & ITSM
+Splunk • ServiceNow • Security Dashboards • Vulnerability Reporting
 
 ---
 
