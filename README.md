@@ -171,21 +171,12 @@ dileepkumar242001@gmail.com
 
 I'm always interested in collaborating on:
 
-• Cybersecurity Projects 
-
-• Vulnerability Management
-
-• DevSecOps Automation
-
-• Cloud Security
-
-• Secure CI/CD Pipelines
-
-• GitHub Advanced Security
-
-• Application Security
-
-• Open Source Security Projects
+- 🔐 Cybersecurity & DevSecOps Projects
+- 🛡️ Vulnerability Management
+- ☁️ Cloud & Application Security
+- 🚀 Secure CI/CD Pipeline Automation
+- 🔍 GitHub Advanced Security (GHAS)
+- 📦 Open Source Security Projects
 
 ---
 
