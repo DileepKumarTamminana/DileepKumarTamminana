@@ -155,7 +155,7 @@ Currently preparing for Security+ and AZ-500.
 
 <div>
 
-<table>
+<table border="0" style="border:none">
 <tr>
 <td align="center" width="80">
 <a href="https://www.linkedin.com/in/dileepkumartamminana">
