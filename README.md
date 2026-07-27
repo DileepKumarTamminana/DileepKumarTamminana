@@ -153,19 +153,33 @@ Currently preparing for Security+ and AZ-500.
 
 # 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dileepkumartamminana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+## 📫 Connect With Me
 
-  <a href="https://github.com/DileepKumarTamminana" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="mailto:dileepkumar242001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="80">
+<a href="https://www.linkedin.com/in/dileepkumartamminana">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="https://github.com/DileepKumarTamminana">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="mailto:dileepkumar242001@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
