@@ -153,7 +153,7 @@ Currently preparing for Security+ and AZ-500.
 
 # 📫 Connect With Me
 
-<div align="center">
+<div>
 
 <table>
 <tr>
