@@ -157,13 +157,13 @@ Currently preparing for Security+ and AZ-500.
 
 <table>
 <tr>
-<td align="center" width="80" style="border:none">
+<td align="center" width="80">
 <a href="https://www.linkedin.com/in/dileepkumartamminana">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 </td>
 
-<td align="center" width="80" style="border:none">
+<td align="center" width="80">
 <a href="https://github.com/DileepKumarTamminana">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
