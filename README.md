@@ -155,15 +155,15 @@ Currently preparing for Security+ and AZ-500.
 
 <div>
 
-<table border="0" style="border:none">
+<table>
 <tr>
-<td align="center" width="80">
+<td align="center" width="80" style="border:none">
 <a href="https://www.linkedin.com/in/dileepkumartamminana">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 </td>
 
-<td align="center" width="80">
+<td align="center" width="80" style="border:none">
 <a href="https://github.com/DileepKumarTamminana">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
