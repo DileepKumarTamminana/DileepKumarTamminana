@@ -8,7 +8,7 @@ Building secure applications, automating security across CI/CD pipelines, and he
 
 # 🚀 About Me
 
-I'm a passionate Cybersecurity Engineer with nearly 3 years of IT experience specializing in Vulnerability Management, DevSecOps, Application Security, and Cloud Security.
+I'm a passionate Cybersecurity Engineer with nearly 3 years of IT experience specializing in Vulnerability Management, DevSecOps, Application Security, Cloud Security, and GitHub Advanced Security (GHAS).
 
 I enjoy securing applications throughout the Software Development Life Cycle (SSDLC), integrating security into CI/CD pipelines, identifying vulnerabilities before production, and continuously improving enterprise security posture.
 
@@ -20,161 +20,40 @@ My interests include Cyber Exposure Management (CEM), Secure SDLC, Cloud Securit
 
 ✔ Vulnerability Management
 
-✔ Application Security
+✔ DevSecOps & Secure SDLC
 
-✔ DevSecOps
+✔ GitHub Advanced Security (GHAS)
 
-✔ Secure SDLC
-
-✔ GitHub Advanced Security
-
-✔ Security Automation
-
-✔ Cloud Security
+✔  Application & Cloud Security
 
 ✔ Security Risk Assessment
 
 ✔ Security Compliance
 
-✔ Security Reporting & Dashboards
+✔ Security Reporting & Remediation
 
 ---
 
-# 🛠 Tech Stack
+#🛠 Tech Stack
+##🔐 Security
 
-## 🔐 Vulnerability Management
+GitHub Advanced Security (GHAS) • CodeQL • Dependabot • Secret Scanning • SonarQube • Burp Suite • OWASP Top 10 • Qualys • Nessus • Trivy • SAST • DAST • IAST
 
-Qualys VMDR
+##☁ Cloud & Containers
 
-Nessus
+Azure • AWS • Docker • Kubernetes • Prisma Cloud
 
-CyCognito
+##🚀 DevOps
 
-Prisma Cloud
+Git • GitHub Actions • Jenkins • YAML • CI/CD
 
-ServiceNow
+##💻 Programming & Scripting
 
-CVE
+Python • PowerShell • Bash • SQL • YAML • Ansible
 
-CVSS
+##📊 Monitoring & ITSM
 
-Risk Prioritization
-
----
-
-## 🛡 Application Security
-
-Burp Suite
-
-OWASP ZAP
-
-OWASP Top 10
-
-SAST
-
-DAST
-
-IAST
-
-Threat Modeling
-
-Secure Code Review
-
-API Security
-
----
-
-## ⚙ DevSecOps
-
-GitHub Actions
-
-GitHub Advanced Security
-
-CodeQL
-
-SonarQube
-
-Snyk
-
-Dependabot
-
-Trivy
-
-Secrets Scanning
-
-CI/CD Security
-
----
-
-## ☁ Cloud Security
-
-Microsoft Azure
-
-AWS
-
-Docker
-
-Kubernetes
-
-Prisma Cloud
-
-Azure Key Vault
-
-IAM
-
-Identity Security
-
----
-
-## 💻 Programming & Automation
-
-Python
-
-PowerShell
-
-Bash
-
-YAML
-
-JSON
-
-Git
-
-GitHub
-
-REST APIs
-
----
-
-## 🐧 Operating Systems
-
-Linux
-
-Windows
-
-Ubuntu
-
-Amazon Linux
-
----
-
-## 📊 Monitoring & Security Operations
-
-Splunk
-
-Microsoft Sentinel
-
-SIEM
-
-SOAR
-
-MITRE ATT&CK
-
-NIST CSF
-
-Zero Trust
-
-Security Dashboards
+Splunk • ServiceNow • Security Dashboards
 
 ---
 
@@ -212,17 +91,9 @@ Scanned Docker images using Trivy and implemented secure container deployment pr
 
 # 📂 Current Learning
 
-Cyber Exposure Management (CEM)
-
 Advanced Vulnerability Management
 
 Cloud Security Architecture
-
-MITRE ATT&CK Framework
-
-Zero Trust Security
-
-Kubernetes Security
 
 AI for Cybersecurity
 
@@ -232,21 +103,17 @@ Security Automation using Python
 
 # 🏆 Certifications
 
-✔ Microsoft Azure Fundamentals (AZ-900)
+🏅 GitHub Advanced Security (GHAS)
 
-✔ Microsoft Azure Data Fundamentals (DP-900)
+🏅 GitHub Actions
 
-✔ GitHub Copilot
+🏅 GitHub Copilot
 
-✔ GitHub Actions
+🏅 Microsoft Azure AZ-900 & Microsoft Azure DP-900
 
-🎯 Currently Preparing
+🏅 Claude Certified Architect – Foundations (CCA-F)
 
-CompTIA Security+
-
-Certified Ethical Hacker (CEH)
-
-CISSP
+Currently preparing for Security+ and AZ-500.
 
 ---
 
@@ -290,7 +157,7 @@ dileepkumar242001@gmail.com
 
 I'm always interested in collaborating on:
 
-• Cybersecurity Projects
+• Cybersecurity Projects 
 
 • Vulnerability Management
 
@@ -308,4 +175,4 @@ I'm always interested in collaborating on:
 
 ---
 
-⭐ If you find my projects helpful, don't forget to star my repositories!
+⭐ If you like my work, don't forget to star my repositories!
