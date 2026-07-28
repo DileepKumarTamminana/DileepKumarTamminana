@@ -26,20 +26,6 @@ My interests include Cyber Exposure Management (CEM), Secure SDLC, Cloud Securit
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./github-metrics.svg" alt="GitHub Metrics" />
-
-<br/>
-
-<img src="./github-metrics-languages.svg" alt="Most Used Languages" />
-
-</div>
-
----
-
 # 💼 Professional Experience
 
 ✔ Vulnerability Management
@@ -195,3 +181,17 @@ I'm always interested in collaborating on:
 ---
 
 ⭐ If you like my work, don't forget to star my repositories!
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
+
+<br/>
+
+<img src="./github-metrics-languages.svg" alt="Most Used Languages" />
+
+</div>
