@@ -67,31 +67,31 @@ Splunk • ServiceNow • Security Dashboards • Vulnerability Reporting
 
 # 🚀 Featured Projects
 
-## 🔐 DevSecOps Security Pipeline
+## 🔐 [DevSecOps Security Pipeline](https://github.com/DileepKumarTamminana/devsecops-pipeline)
 
 Integrated CodeQL, SonarQube, Snyk, Trivy, and GitHub Actions to automate security scanning throughout the CI/CD pipeline.
 
 ---
 
-## 🛡 Vulnerability Management Dashboard
+## 🛡 [Vulnerability Management Dashboard](https://github.com/DileepKumarTamminana/vuln-management-dashboard)
 
 Developed vulnerability tracking dashboards using CVSS scoring, remediation SLAs, and risk prioritization.
 
 ---
 
-## ☁ Cloud Security Assessment
+## ☁ [Cloud Security Assessment](https://github.com/DileepKumarTamminana/cloud-security-iac-scan)
 
 Performed cloud security posture reviews using Prisma Cloud and implemented security best practices for cloud workloads.
 
 ---
 
-## 🔍 Web Application Security Testing
+## 🔍 [Web Application Security Testing](https://github.com/DileepKumarTamminana/webapp-security-testing)
 
 Performed application security assessments using Burp Suite and OWASP methodologies to identify and validate vulnerabilities.
 
 ---
 
-## 📦 Container Security
+## 📦 [Container Security](https://github.com/DileepKumarTamminana/container-security-scan)
 
 Scanned Docker images using Trivy and implemented secure container deployment practices.
 
