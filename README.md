@@ -99,13 +99,13 @@ Container image scanning with Trivy and Dockle, contrasting an insecure Dockerfi
 
 # 📂 Current Learning
 
-Advanced Vulnerability Management
+🛡️ Advanced Vulnerability Management
 
-Cloud Security Architecture
+☁️ Cloud Security Architecture
 
-AI for Cybersecurity
+🤖 AI for Cybersecurity
 
-Security Automation using Python
+🐍 Security Automation using Python
 
 ---
 
