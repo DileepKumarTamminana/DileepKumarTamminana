@@ -69,31 +69,31 @@ Splunk • ServiceNow • Security Dashboards • Vulnerability Reporting
 
 ## 🔐 [DevSecOps Security Pipeline](https://github.com/DileepKumarTamminana/devsecops-pipeline)
 
-Integrated CodeQL, SonarQube, Snyk, Trivy, and GitHub Actions to automate security scanning throughout the CI/CD pipeline.
+A sample Flask app wired with a full GitHub Actions security pipeline — SAST (CodeQL), SCA (Trivy + Dependabot), secret scanning (Gitleaks), and container image scanning — with build gating on HIGH/CRITICAL findings.
 
 ---
 
 ## 🛡 [Vulnerability Management Dashboard](https://github.com/DileepKumarTamminana/vuln-management-dashboard)
 
-Developed vulnerability tracking dashboards using CVSS scoring, remediation SLAs, and risk prioritization.
+A Python tool that ingests scanner output and applies CVSS-based severity bucketing, remediation SLA tracking, and risk prioritization — generating clean HTML and Markdown reports.
 
 ---
 
 ## ☁ [Cloud Security Assessment](https://github.com/DileepKumarTamminana/cloud-security-iac-scan)
 
-Performed cloud security posture reviews using Prisma Cloud and implemented security best practices for cloud workloads.
+Infrastructure-as-Code (Terraform) security scanning with Checkov and tfsec, catching cloud misconfigurations in CI — with an insecure vs. remediated comparison of common AWS resources.
 
 ---
 
 ## 🔍 [Web Application Security Testing](https://github.com/DileepKumarTamminana/webapp-security-testing)
 
-Performed application security assessments using Burp Suite and OWASP methodologies to identify and validate vulnerabilities.
+Automated DAST with OWASP ZAP baseline scanning, plus a documented testing methodology and reusable finding templates mapped to the OWASP Top 10.
 
 ---
 
 ## 📦 [Container Security](https://github.com/DileepKumarTamminana/container-security-scan)
 
-Scanned Docker images using Trivy and implemented secure container deployment practices.
+Container image scanning with Trivy and Dockle, contrasting an insecure Dockerfile against a hardened one (non-root, pinned base, healthcheck) with CI that fails on HIGH/CRITICAL issues.
 
 ---
 
