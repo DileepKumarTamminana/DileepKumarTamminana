@@ -133,6 +133,8 @@ Security Automation using Python
 
 🏅 Claude Certified Architect – Foundations (CCA-F)
 
+🔗 [Verify my badges on Credly](https://www.credly.com/users/dileepkumartamminana)
+
 Currently preparing for Security+ and AZ-500.
 
 ---
@@ -166,6 +168,12 @@ Currently preparing for Security+ and AZ-500.
 <td align="center" width="80">
 <a href="https://github.com/DileepKumarTamminana">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</td>
+
+<td align="center" width="80">
+<a href="https://www.credly.com/users/dileepkumartamminana">
+<img src="https://cdn.simpleicons.org/credly/FF6B00" height="45"/>
 </a>
 </td>
 
