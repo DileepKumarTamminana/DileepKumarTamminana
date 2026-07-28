@@ -143,7 +143,7 @@ Currently preparing for Security+ and AZ-500.
 
 # 📫 Connect With Me
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/dileepkumartamminana">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
