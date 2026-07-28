@@ -18,11 +18,25 @@ Building secure applications, automating security across CI/CD pipelines, and he
 
 # 🚀 About Me
 
-I'm a passionate Cybersecurity Engineer with nearly **3 years of IT experience** specializing in **Vulnerability Management, DevSecOps, Application Security, Cloud Security, and GitHub Advanced Security (GHAS)**.
+I'm a passionate Cybersecurity Engineer with **3+ years of IT experience** specializing in **Vulnerability Management, DevSecOps, Application Security, Cloud Security, and GitHub Advanced Security (GHAS)**.
 
 I enjoy securing applications throughout the Software Development Life Cycle (SSDLC), integrating security into CI/CD pipelines, identifying vulnerabilities before production, and continuously improving enterprise security posture.
 
 My interests include Cyber Exposure Management (CEM), Secure SDLC, Cloud Security, GitHub Advanced Security, Threat Modeling, and Security Automation.
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./github-metrics.svg" alt="GitHub Metrics" />
+
+<br/>
+
+<img src="./github-metrics-languages.svg" alt="Most Used Languages" />
+
+</div>
 
 ---
 
@@ -34,7 +48,7 @@ My interests include Cyber Exposure Management (CEM), Secure SDLC, Cloud Securit
 
 ✔ GitHub Advanced Security (GHAS)
 
-✔  Application & Cloud Security
+✔ Application & Cloud Security
 
 ✔ Security Risk Assessment
 
@@ -44,27 +58,19 @@ My interests include Cyber Exposure Management (CEM), Secure SDLC, Cloud Securit
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### 🔐 Security
 GitHub Advanced Security (GHAS) • CodeQL • Dependabot • Secret Scanning • Qualys • Nessus • SonarQube • Burp Suite • Trivy • Prisma Cloud • OWASP Top 10 • SAST • DAST • IAST • SCA
 
----
-
 ### ☁️ Cloud & Containers
 Microsoft Azure • AWS • Docker • Kubernetes
-
----
 
 ### 🚀 DevSecOps & CI/CD
 Git • GitHub Actions • Jenkins • CI/CD • YAML • Ansible
 
----
-
 ### 💻 Programming & Automation
 Python • PowerShell • Bash • SQL
-
----
 
 ### 📊 Monitoring & ITSM
 Splunk • ServiceNow • Security Dashboards • Vulnerability Reporting
@@ -133,14 +139,6 @@ Currently preparing for Security+ and AZ-500.
 
 # 📈 Areas of Interest
 
-🔐 Vulnerability Management
-
-🛡 Application Security
-
-⚙ DevSecOps
-
-☁ Cloud Security
-
 🚀 Secure CI/CD
 
 🔍 Threat Modeling
@@ -148,6 +146,8 @@ Currently preparing for Security+ and AZ-500.
 📊 Cyber Exposure Management
 
 🤖 Security Automation
+
+🧠 AI for Cybersecurity
 
 ---
 
