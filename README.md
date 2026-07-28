@@ -143,37 +143,23 @@ Currently preparing for Security+ and AZ-500.
 
 # 📫 Connect With Me
 
-<div>
-
-<table>
-<tr>
-<td align="center" width="80">
+<p align="center">
 <a href="https://www.linkedin.com/in/dileepkumartamminana">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
-</td>
-
-<td align="center" width="80">
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/DileepKumarTamminana">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
-</td>
-
-<td align="center" width="80">
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/users/dileepkumartamminana">
-<img src="https://cdn.simpleicons.org/credly/FF6B00" height="45"/>
+<img src="https://cdn.simpleicons.org/credly/FF6B00" height="45" alt="Credly"/>
 </a>
-</td>
-
-<td align="center" width="80">
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:dileepkumar242001@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" height="45"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Email"/>
 </a>
-</td>
-</tr>
-</table>
-
-</div>
+</p>
 
 ---
 
